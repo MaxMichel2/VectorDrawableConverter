@@ -1,0 +1,23 @@
+<idea-plugin>
+    <id>com.maximemichel.VectorDrawableConverter</id>
+    <name>VectorDrawableConverter</name>
+    <vendor email="maxime.h.d.michel@gmail.com" url="https://github.com/MaxMichel2/VectorDrawableConverter">Github</vendor>
+
+    <description><![CDATA[
+    Temporary description.<br>
+    <em>Will be changed in the future.</em>
+    ]]></description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+    <depends>org.jetbrains.android</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
